@@ -1,7 +1,7 @@
 # voltage!OS
 
 Welcome to **voltage!OS**, an imaginative operating system concept designed for the MakeCode Arcade platform. This project aims to simulate the experience of an OS within a retro gaming environment, offering a creative and interactive way to explore system-like features.
-> [! WARNING]
+> ***WARNING***
 > This is in beta, use at your own risk
 ## Features
 
