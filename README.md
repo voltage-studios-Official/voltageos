@@ -6,6 +6,7 @@ Welcome to **voltage!OS**, an imaginative operating system concept designed for 
 ## Features
 
 - **Customizable Interface**: Experiment with different layouts and styles.
+- **Releases**: Download precompiled `.uf2` files directly from the [Releases](https://github.com/yourusername/voltageos/releases) tab.
 - **App Launcher**: Simulate launching apps and games from a central hub.
 - **File Management**: Mimic basic file operations in a fun and engaging way.
 - **Settings Menu**: Adjust simulated system preferences and configurations.
